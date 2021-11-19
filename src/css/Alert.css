@@ -1,0 +1,23 @@
+/*
+styling css of Alert component
+*/
+
+/*styling alert message container*/
+.alert-container {
+
+    margin-top: 10px;
+    background-color: rgba(48, 36, 36, 0.3);
+    padding: 15px 20px;
+    bottom: -50px;
+  }
+  
+  /*styling text inside container*/
+  .alert-container p {
+    margin: 0;
+    color: white;
+  }
+
+
+  .hide-alert {
+    display: none;
+  }

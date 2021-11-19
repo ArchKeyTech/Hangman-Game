@@ -1,0 +1,95 @@
+/*
+styling css of Person component
+*/
+
+/*
+styling of all states of the hangman images
+the border's color of the image changes from green to red
+to reflect wrong letter entered
+*/
+.person-state1 {
+    
+    background-image: url("../images/state1.GIF");
+    background-size: cover;
+    border: solid 10px green;
+}
+
+.person-state2 {
+    
+    background-image: url("../images/state2.GIF");
+    background-size: cover;
+    border: solid 10px green;
+}
+
+.person-state3 {
+    
+    background-image: url("../images/state3.GIF");
+    background-size: cover;
+    border: solid 10px green;
+}
+
+.person-state4 {
+    
+    background-image: url("../images/state4.GIF");
+    background-size: cover;
+    border: solid 10px yellow;
+}
+
+.person-state5 {
+    
+    background-image: url("../images/state5.GIF");
+    background-size: cover;
+    border: solid 10px yellow;
+}
+
+.person-state6 {
+    
+    background-image: url("../images/state6.GIF");
+    background-size: cover;
+    border: solid 10px yellow;
+}
+
+.person-state7 {
+    
+    background-image: url("../images/state7.GIF");
+    background-size: cover;
+    border: solid 10px orange;
+}
+
+.person-state8 {
+    
+    background-image: url("../images/state8.GIF");
+    background-size: cover;
+    border: solid 10px orange;
+}
+
+.person-state9 {
+    
+    background-image: url("../images/state9.GIF");
+    background-size: cover;
+    border: solid 10px orange;
+}
+
+.person-state10 {
+    
+    background-image: url("../images/state10.gif");
+    background-size: cover;
+    border: solid 10px red;
+}
+
+.person-state11 {
+    
+    background-image: url("../images/state11.GIF");
+    background-size: cover;
+    border: solid 10px red;
+    
+}
+
+/*styling the Person div which holds all the images*/
+.Person {
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: 400px;
+    height: 500px;
+}

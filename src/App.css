@@ -1,0 +1,39 @@
+/*
+css to style entire content of App component which is parent of other components
+*/
+
+/*
+style for container in App
+*/
+.App-container {
+  background-color: purple;
+  padding-top: 60px;
+}
+
+/*
+style the entire game container
+*/
+.game-container {
+
+  border: solid 5px rgb(224, 168, 224);
+  border-radius: 20px;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+/*
+styling root id from index.html
+*/
+#root {
+  background-color: purple;
+  min-height: 980px;
+  align-items: center;
+  justify-content: center;
+
+}

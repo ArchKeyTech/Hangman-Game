@@ -1,0 +1,19 @@
+/*
+styling css of Header component
+*/
+
+/*styling the header div*/
+.Header {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+}
+/*styling header title text*/
+.Header-titles {
+    color: white;
+    font-weight: bold;
+}
+

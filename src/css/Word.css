@@ -1,0 +1,30 @@
+.word {
+    
+    display: flex;
+    bottom: 10px;
+    left: 50%;
+  }
+
+.guess {
+
+    background-color: rgba(133, 180, 211, 0.8) ;
+    border-bottom: 4px solid blue;
+    border-left: solid 4px blue;
+    border-right: solid 4px blue;
+    border-top: solid 4px blue;
+    padding: 0px 13px 0px 13px;
+    display: inline-flex;
+    font-weight: bold;
+    color: purple;
+    font-size: 28px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 2.5px;
+    height: 50px;
+    width: 30px;
+  }
+
+.guess:hover {
+  cursor: pointer;
+  background-color: rgba(255, 214, 32, 0.8) ;
+}

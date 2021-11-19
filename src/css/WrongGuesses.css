@@ -1,0 +1,39 @@
+/*
+styling the css of the WrongGuesses component
+*/
+
+/*styling the container which holds the wrong entries*/
+.wrong-guesses-container {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(224, 168, 224);
+    padding: 2px 10px 2px 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+
+  /*when the wrong entries container is hovered*/
+  .wrong-guesses-container:hover {
+    cursor: pointer;
+    background-color: rgba(255, 214, 32, 0.8)
+
+  }
+  
+  /*the title of the container*/
+  .wrong-guesses-container p {
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 22px;
+    color: black;
+    text-decoration: underline;
+  }
+  
+  /*styling of each letter in the container */
+  .wrong-guesses-container span {
+    font-size: 24px;
+    color: black;
+  }
