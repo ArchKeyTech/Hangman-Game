@@ -25,4 +25,4 @@ If a correct letter is entered twice, an alert message will pop-up to indicate t
 
 ## Credit
 
-Made by [Dan-Samuel Moleka](https://github.com/ArchKeyTechnique)
+By [Dan-Samuel Moleka](https://github.com/ArchKeyTechnique)
