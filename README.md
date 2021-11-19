@@ -10,6 +10,10 @@ Download the ZIP file of the code or Git Clone from your terminal. Then, navigat
 Once the install is complete, run `npm start` to launch the game in development mode.
 This will launch the game in the browser with server [http://localhost:3000](http://localhost:3000).
 
+## Launching via Heroku
+
+Click the link to play via Heroku - https://hangman-app626.herokuapp.com/
+
 ## Rules of the game
 
 The aim of the game is to figure out the hidden word by guessing it letter by letter.
