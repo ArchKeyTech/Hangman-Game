@@ -1,6 +1,18 @@
 # Hangman-Game
 A fun attempt at creating a simple hangman game using ReactJS
 
+## Rules of the game
+
+The aim of the game is to figure out the hidden word by guessing it letter by letter.
+The player has a limit of 10 wrong guesses, after which they lose.
+Once all the letters from the hidden word have been found, the game is won.
+
+## Game Mechanics
+
+Once on the game launches, every letter entered will count as a guess. 
+The correct guesses appear in the blue boxes, while the wrong guesses are listed at the bottom.
+If a correct letter is entered twice, an alert message will pop-up to indicate the letter has already been used.
+
 ## Screenshots
 UI:
 ![Screenshot from 2021-12-11 17-07-45](https://user-images.githubusercontent.com/50621192/145681558-e675b55e-0f38-41ec-a74a-be776d37bf6d.png)
@@ -27,18 +39,6 @@ This will launch the game in the browser with server [http://localhost:3000](htt
 ## Launching via Heroku
 
 Click the link to play via Heroku - https://hangman-app626.herokuapp.com/
-
-## Rules of the game
-
-The aim of the game is to figure out the hidden word by guessing it letter by letter.
-The player has a limit of 10 wrong guesses, after which they lose.
-Once all the letters from the hidden word have been found, the game is won.
-
-## Game Mechanics
-
-Once on the game launches, every letter entered will count as a guess. 
-The correct guesses appear in the blue boxes, while the wrong guesses are listed at the bottom.
-If a correct letter is entered twice, an alert message will pop-up to indicate the letter has already been used.
 
 
 ## Credit
