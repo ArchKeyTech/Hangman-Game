@@ -17,13 +17,13 @@ If a correct letter is entered twice, an alert message will pop-up to indicate t
 UI:
 ![Screenshot from 2021-12-11 17-07-45](https://user-images.githubusercontent.com/50621192/145681558-e675b55e-0f38-41ec-a74a-be776d37bf6d.png)
 
-Correct word guess:
+### Correct word guess:
 ![Screenshot from 2021-12-11 17-09-22](https://user-images.githubusercontent.com/50621192/145681583-c24a1bc6-d9d1-4af6-ab71-cbe0ba43c32d.png)
 
-Incorrect word guess:
+### Incorrect word guess:
 ![Screenshot from 2021-12-11 17-09-35](https://user-images.githubusercontent.com/50621192/145681607-d0afc936-205e-4a8e-9f63-81aa53362b62.png)
 
-Help section:
+### Help section:
 ![Screenshot from 2021-12-11 17-09-42](https://user-images.githubusercontent.com/50621192/145681619-e6189480-40b9-4d7b-ae4b-4203719cb09d.png)
 
 
